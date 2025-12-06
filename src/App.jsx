@@ -183,7 +183,7 @@ const App = () => {
           </div>
           <div className="contact-item">
             <span className="contact-label">Location</span>
-            <span>Mehsana, India</span>
+            <span>Ahmedabad (Gujarat), India</span>
           </div>
           {/* Optional GitHub/LinkedIn placeholders */}
           <div className="contact-item">
