@@ -5,7 +5,8 @@ const skills = {
   "Programming Languages": ["C", "C++", "Java", "Python", "C#", "Kotlin"],
   "Web Technologies": ["HTML", "CSS", "JavaScript", "React", "Web Development", "Frontend Development"],
   "Frameworks & Tools": [".NET", "Node.js", "Express.js", "Android"],
-  Other: ["Cybersecurity"],
+  Other: ["Cybersecurity",],
+  Tools:["Docker", "Jenkins", "Git", "GitHub", "CI/CD Pipelines"],
 };
 
 const projects = [
