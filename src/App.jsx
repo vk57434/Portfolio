@@ -5,7 +5,7 @@ const skills = {
   "Programming Languages": ["C", "C++", "Java", "Python", "C#", "Kotlin"],
   "Web Technologies": ["HTML", "CSS", "JavaScript", "React", "Web Development", "Frontend Development"],
   "Frameworks & Tools": [".NET", "Node.js", "Express.js", "Android"],
-  Other: ["Cybersecurity",],
+  Other: ["Cybersecurity"],
   Tools:["Docker", "Jenkins", "Git", "GitHub", "CI/CD Pipelines"],
 };
 
@@ -24,6 +24,21 @@ const projects = [
       "Performed a basic vulnerability analysis on a small business network to identify security gaps and suggest improvements.",
     tech: ["Cybersecurity", "Network Security Basics"],
   },
+  {
+    title: "AI Blog Generator",
+    duration: "jan 2026",
+    description: "An AI-powered blog generator that uses OpenRouter to access multiple AI models (OpenAI, Anthropic, Google, etc.) to create detailed, SEO-optimized blog posts based on keywords.",
+    tech: ["Next.js, Firebase, OpenAI API, Stripe API"],
+
+  },
+  {
+    title: "Quizz Web App",
+    duration: "jan 2026",
+    description: ": Develop a quiz platform where users can take timed quizzes and see their scores.",
+    tech: ["React.js, Node.js, MongoDB"],
+
+  },
+  
 ];
 
 const App = () => {
