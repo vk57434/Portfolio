@@ -25,6 +25,7 @@ const App = () => (
     {/* <Testimonials /> */}
     <Contact />
     <Footer />
+  
     <a className="back-to-top" href="#top" aria-label="Back to top">
       ↑
     </a>
